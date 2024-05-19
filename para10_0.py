@@ -6,3 +6,4 @@ cur.execute("SELECT rowid, name FROM first_table VALUES ('Vasya');")
 res = cur.fetchall()
 print(res)
 conection.close()
+

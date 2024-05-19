@@ -7,3 +7,4 @@ conection.commit()
 res = cur.fetchall()
 print(res)
 conection.close()
+

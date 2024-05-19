@@ -5,3 +5,4 @@ cur = conection.cursor()
 cur.execute("CREATE TABLE first_table (name, TEXT);")
 conection.commit()
 conection.close()
+

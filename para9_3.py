@@ -10,4 +10,5 @@ for elem_1 in response_parse:
             if elem_2.startswith("$") and elem_2[1].isdigit():
                 res_pars_list.append(elem_2)
 
+
 print(res_pars_list[0])

@@ -7,3 +7,4 @@ cur.execute("INSERT INTO first_table (name) VALUES ('Leon');")
 cur.execute("INSERT INTO first_table (name) VALUES ('Ydaw');")
 conection.commit()
 conection.close()
+

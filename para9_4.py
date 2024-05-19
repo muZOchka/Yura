@@ -9,3 +9,4 @@ if response.status_code == 200:
     for elem in soup_list:
         print(elem)
 
+
