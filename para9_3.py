@@ -12,3 +12,4 @@ for elem_1 in response_parse:
 
 
 print(res_pars_list[0])
+

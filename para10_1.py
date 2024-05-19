@@ -8,3 +8,4 @@ cur.execute("INSERT INTO first_table (name) VALUES ('Ydaw');")
 conection.commit()
 conection.close()
 
+
